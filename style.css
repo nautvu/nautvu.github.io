@@ -8,7 +8,7 @@ body {
 }
 
 .noidung1 {
-    background-image: url(/C:/Users/tuanv/Desktop/images/vu10.jpg);
+    background-image: url('vu10.jpg');
     background-size: cover;
     height: 920px;
     text-align: center;
@@ -84,7 +84,7 @@ img.anh1 {
 }
 
 .noidung3 {
-    background-image: url(file:///C:/Users/tuanv/Desktop/images/vu4.jpg);
+    background-image: url('vu4.jpg');
     background-size: cover;
     background-position: center;
     height: 450px;
@@ -322,7 +322,7 @@ p.chuduoi2 {
 
 
 .noidung5 {
-    background-image: url(/C:/Users/tuanv/Desktop/images/vu10.jpg);
+    background-image: url('vu10.jpg');
     background-position: center;
     background-size: cover;
     height: 600px;
@@ -405,7 +405,7 @@ span.thefox {
 .khoi-carousel {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url(file:///C:/Users/tuanv/Desktop/Ahand/vu20.jpg);
+    background-image: url('vu20.jpg');
     height: 630px;
     padding: 64px;
     margin-left: -170px;
@@ -658,7 +658,7 @@ p.menuhihi {
     height: 360px;
     position: relative;
     border-radius: 50%;
-    background-image: url(file:///C:/Users/tuanv/Desktop/Ahand/avt111.jpg);
+    background-image: url('avt111.jpg');
     background-size: cover;
     margin-top: 44px;
 }
@@ -710,7 +710,7 @@ p.menuhihi {
 }
 
 .anh-1 {
-    background-image: url(file:///C:/Users/tuanv/Desktop/Ahand/vu2.jpg);
+    background-image: url('vu2.jpg');
     width: 330px;
     height: 330px;
     background-size: cover;
@@ -719,7 +719,7 @@ p.menuhihi {
 .noidung {
     width: 330px;
     height: 330px;
-    background-image: url(file:///C:/Users/tuanv/Desktop/Ahand/vu2.jpg);
+    background-image: url('vu2.jpg');
     background-position: center;
     position: absolute;
     background-size: cover;
